@@ -1,0 +1,5 @@
+# Signup-loginpage
+TECHNOLOGIES USED 
+1) REACT JS
+2) NODE JS
+3) MONGODB
